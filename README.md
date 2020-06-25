@@ -1,10 +1,10 @@
 # st
 
-This is my patched version of the Suckless' terminal emulator st. I added transparency, lines, braille, blocks, glyphs and ligatures characters support, w3m support and scrollback support.
+This is my patched version of the Suckless' terminal emulator st. I added transparency support, lines, braille, blocks, glyphs and ligatures characters support, w3m support and scrollback support.
 
 ## Dependencies
 
-`libxft`
+`libxft-bgra`
 
 ## Installation
 
