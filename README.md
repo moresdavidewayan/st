@@ -16,6 +16,8 @@ Coming soon
 
 Open a terminal and type:
 
-```git clone https://github.com/moresdavidewayan/st.git
+```
+git clone https://github.com/moresdavidewayan/st.git
 cd st
-sudo make install```
+sudo make install
+```
